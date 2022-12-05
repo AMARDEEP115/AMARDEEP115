@@ -1,5 +1,5 @@
 # Hi.. there <img style="width:100px" src="https://media2.giphy.com/media/B6ks3eTSxhk4EvABa6/giphy.gif?cid=6c09b95277fbbaccc8a36f525bd574eb475f52e5eed9230a&rid=giphy.gif&ct=s" alt="hii"/>
-<div display="flex" flex-direction="row"><h1>My Name is... AMAR DEEP</h1> <img src="https://blog.uniecampus.it/wp-content/uploads/2021/07/shutterstock_1449924503.png" style="width:50%;height:50%" alt="gif"/></div>
+<div style="display: flex;"><h1>My Name is... AMAR DEEP</h1> <img src="https://blog.uniecampus.it/wp-content/uploads/2021/07/shutterstock_1449924503.png" style="width:50%;height:50%" alt="gif"/></div>
 
 - 🌱 I’m currently learning ... Full-Stack Development
 - 💬 Ask me about ... HTML | CSS | JavaScript | React JS | Redux
