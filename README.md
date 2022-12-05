@@ -2,9 +2,9 @@
 <div style="display: flex;flex-direction: row;">
        <div>
               <h1>My Name is... AMAR DEEP</h1>
-              <h1>- 🌱 I’m currently learning ... Full-Stack Development</h1>
-              <h1>- 💬 Ask me about ... HTML | CSS | JavaScript | React JS | Redux</h1>
-              <h1>- 📫 How to reach me: ...</h1>
+              <p>- 🌱 I’m currently learning ... Full-Stack Development</p>
+              <p>- 💬 Ask me about ... HTML | CSS | JavaScript | React JS | Redux</p>
+              <p>- 📫 How to reach me: ...</p>
        </div>
        <div><img src="https://blog.uniecampus.it/wp-content/uploads/2021/07/shutterstock_1449924503.png" style="width:50%;height:50%" alt="gif"/></div>
 </div>
