@@ -1,5 +1,5 @@
 # Hi.. there <img style="width:100px" src="https://media2.giphy.com/media/B6ks3eTSxhk4EvABa6/giphy.gif?cid=6c09b95277fbbaccc8a36f525bd574eb475f52e5eed9230a&rid=giphy.gif&ct=s" alt="hii"/>
-<div style="display: flex;flex-direction: row;">
+<div style="display: flex">
        <div>
               <h1>My Name is... AMAR DEEP</h1>
               <p>- 🌱 I’m currently learning ... Full-Stack Development</p>
