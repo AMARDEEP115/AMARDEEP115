@@ -1,6 +1,6 @@
 ### Hi there <img style="width:100px" src="https://i.pinimg.com/originals/5d/f3/4b/5df34b95ee180309a51941e1f74542c3.gif" alt="hii"/>
 <h1>My Name is... <img style="width:350px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwte12LwqHOxmj1P2up0x9ctq2KuQ8ENLdDA&usqp=CAU" alt="Amar Deep"/></h1>
-<h1>A</h1><h1>M</h1><h1>A</h1><h1>R</h1><h1>D</h1><h1>E</h1><h1>E</h1><h1>P</h1>
+<div><h1>A</h1><h1>M</h1><h1>A</h1><h1>R</h1><h1>D</h1><h1>E</h1><h1>E</h1><h1>P</h1></div>
  <p>D</p>  <p>O</P>
  <p>A</p>  <p>D</P>
  <p>P</p>  <p>E</P>
