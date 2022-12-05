@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ... Full-Stack Development
 - 💬 Ask me about ... HTML | CSS | JavaScript | React JS | Redux
 - 📫 How to reach me: ...
-       <div style="display:flex;align-items: center"><img style="width:40px;height:30px" src="https://i.pinimg.com/originals/be/a9/47/bea9476a2701c90e835a87b17bb9369f.jpg" alt="E-MAIL" /> <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=amar1998deep@gmail.com" target="_blank">amar1998deep@gmail.com</a></div>
+       <div style="display:flex;align-items: center"><img style="width:40px;height:30px" src="https://i.pinimg.com/originals/be/a9/47/bea9476a2701c90e835a87b17bb9369f.jpg" alt="E-MAIL" /> <a style="color:white;margin-top:-10px" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=amar1998deep@gmail.com" target="_blank">amar1998deep@gmail.com</a></div>
 <img src="https://github-readme-stats.vercel.app/api?username=AMARDEEP115&show_icons=true&locale=en" alt="status"/>
 <!--
 **AMARDEEP115/AMARDEEP115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
