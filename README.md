@@ -1,4 +1,4 @@
-### Hi there 👋 <h3>My Name is... <img style="width:300px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwte12LwqHOxmj1P2up0x9ctq2KuQ8ENLdDA&usqp=CAU" alt="Amar Deep"/></h3>
+### Hi there 👋 <h1>My Name is... <img style="width:350px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwte12LwqHOxmj1P2up0x9ctq2KuQ8ENLdDA&usqp=CAU" alt="Amar Deep"/></h1>
 
 <img src="https://blog.uniecampus.it/wp-content/uploads/2021/07/shutterstock_1449924503.png" style="width:100%;height:100%" alt="gif"/>
 
