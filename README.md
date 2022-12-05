@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img style="height:45px" src="https://www.canva.com/design/DAFS1YB2pRE/wl8F-bTWE9QQP-AIwpc_mg/view?utm_content=DAFS1YB2pRE&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu" alt="gif"/>
+<img src="https://blog.uniecampus.it/wp-content/uploads/2021/07/shutterstock_1449924503.png" style="width:"100%";height:"100%"" alt="gif"/>
 
 - 🌱 I’m currently learning ... Full-Stack Development
 - 💬 Ask me about ... HTML | CSS | JavaScript | React JS | Redux
