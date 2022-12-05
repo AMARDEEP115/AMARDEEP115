@@ -1,14 +1,5 @@
 ### Hi there <img style="width:100px" src="https://i.pinimg.com/originals/5d/f3/4b/5df34b95ee180309a51941e1f74542c3.gif" alt="hii"/>
 <h1>My Name is... <img style="width:350px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwte12LwqHOxmj1P2up0x9ctq2KuQ8ENLdDA&usqp=CAU" alt="Amar Deep"/></h1>
-<div><h1>A</h1><h1>M</h1><h1>A</h1><h1>R</h1><h1>D</h1><h1>E</h1><h1>E</h1><h1>P</h1></div>
- <p>D</p>  <p>O</P>
- <p>A</p>  <p>D</P>
- <p>P</p>  <p>E</P>
- <p>T</p>  <p>S</P>
- <p>A</p>  <p>T</P>
- <p>B</p>
- <p>L</p>
- <p>E</p>
 
 <img src="https://blog.uniecampus.it/wp-content/uploads/2021/07/shutterstock_1449924503.png" style="width:100%;height:100%" alt="gif"/>
 
