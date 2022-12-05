@@ -1,4 +1,5 @@
 # Hi.. there <img style="width:100px" src="https://media2.giphy.com/media/B6ks3eTSxhk4EvABa6/giphy.gif?cid=6c09b95277fbbaccc8a36f525bd574eb475f52e5eed9230a&rid=giphy.gif&ct=s" alt="hii"/>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=amardeep115&label=Profile%20views&color=0e75b6&style=flat" alt="amardeep115" /> </p>
 <h1>My Name is... AMAR DEEP</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" src="https://blog.uniecampus.it/wp-content/uploads/2021/07/shutterstock_1449924503.png" style="width:50%;height:50%" alt="gif"/>
