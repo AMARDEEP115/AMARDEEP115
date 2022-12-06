@@ -1,6 +1,6 @@
 # <h1 align="left">ℍ𝕚𝕚 𝕋𝕙𝕖𝕣𝕖... <img style="width:100px" src="https://media2.giphy.com/media/B6ks3eTSxhk4EvABa6/giphy.gif?cid=6c09b95277fbbaccc8a36f525bd574eb475f52e5eed9230a&rid=giphy.gif&ct=s" alt="hii"/> </h1>  <p align="right"> <img src="https://komarev.com/ghpvc/?username=amardeep115&label=Profile%20views&color=0e75b6&style=flat" alt="amardeep115" /> </p>
 <h1 align="center" font-style="copperplate,papyrus">My Name is... 𝒜𝑀𝒜𝑅 𝒟𝐸𝐸𝒫</h1>
-<img align="center" src="https://readme-typing-svg.demolab.com/?lines=My+Name+is+%F0%9D%92%9C%F0%9D%91%80%F0%9D%92%9C%F0%9D%91%85%20%F0%9D%92%9F%F0%9D%90%B8%F0%9D%90%B8%F0%9D%92%AB;Always+ready+to%20+learn+new+things;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=70&duration=4000&pause=1000&color=F7F7F7%22" alt="animation"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=My+Name+is+%F0%9D%92%9C%F0%9D%91%80%F0%9D%92%9C%F0%9D%91%85%20%F0%9D%92%9F%F0%9D%90%B8%F0%9D%90%B8%F0%9D%92%AB;Always+ready+to%20+learn+new+things;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=100&duration=4000&pause=1000&color=F7F7F7%22" alt="animation"/>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" src="https://blog.uniecampus.it/wp-content/uploads/2021/07/shutterstock_1449924503.png" style="width:50%;height:50%" alt="gif"/>
 
