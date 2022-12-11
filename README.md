@@ -21,10 +21,11 @@ Looking for opportunity where I can utilize my extensive knowledge and have desi
          <p align="left">
              <a href="https://linkedin.com/in/amar-deep-8359aa246/"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKSiEsPKQAUEEk7kmEy1Rb7YotukM86O286A&usqp=CAU" alt="linkedIn" height="35" width="70" /></a>
        </p>
-       </div>
        
        <br/>
        - 💬 Ask me about ... HTML | CSS | JavaScript | React JS | Redux
+       </div>
+       
 <img src="https://github-readme-stats.vercel.app/api?username=AMARDEEP115&show_icons=true&locale=en" alt="status"/>
 <!--
 **AMARDEEP115/AMARDEEP115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
