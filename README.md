@@ -18,6 +18,11 @@ Looking for opportunity where I can utilize my extensive knowledge and have desi
 - 📫 How to reach me: ...
        <div style="display:flex;align-items: center">
          E-MAIL <a style="color:white;margin-top:-20px" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=amar1998deep@gmail.com" target="_blank">amar1998deep@gmail.com</a>
+         Mobile Number. - 6388898362
+         <p align="left">
+             <a href="https://linkedin.com/in/https://www.linkedin.com/in/amar-deep-8359aa246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amar-deep-8359aa246/" height="30" width="40" /></a>
+            <a href="https://instagram.com/xx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xx" height="30" width="40" /></a>
+       </p>
        </div>
 <img src="https://github-readme-stats.vercel.app/api?username=AMARDEEP115&show_icons=true&locale=en" alt="status"/>
 <!--
