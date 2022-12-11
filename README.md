@@ -1,6 +1,6 @@
 # <h1 align="left">ℍ𝕚𝕚 𝕋𝕙𝕖𝕣𝕖... <img style="width:100px" src="https://media2.giphy.com/media/B6ks3eTSxhk4EvABa6/giphy.gif?cid=6c09b95277fbbaccc8a36f525bd574eb475f52e5eed9230a&rid=giphy.gif&ct=s" alt="hii"/> </h1>  <p align="right"> <img src="https://komarev.com/ghpvc/?username=amardeep115&label=Profile%20views&color=0e75b6&style=flat" alt="amardeep115" /> </p>
 <h1 align="center" font-style="copperplate,papyrus">My Name is... 𝒜𝑀𝒜𝑅 𝒟𝐸𝐸𝒫</h1>
-<img src="https://readme-typing-svg.demolab.com/?lines=1200.plus+hrs+coding;100.plus+hrs+soft+skill+development;80.plus+mini+projects;300.plus+hrs+Data+Structure+&+Algo.;5.plus+projects!&font=Fira%20Code&center=true&width=420&height=100&duration=4000&pause=1000&color=F7F7F7%22" alt="animation"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=1200.plus+hrs+coding;100.plus+hrs+soft+skill+development;80.plus+mini+projects;300.plus+hrs+Data+Structure+&+Algo.;5.plus+projects!&font=Fira%20Code&center=true&width=420&height=100&duration=4000&pause=1000&color=#36BCF7FF" alt="animation"/>
 <h3 align="center">A passionate Full-Stack developer</h3>
 
 <h4 align="center">Using technologies to solve real life problems intergued me.
