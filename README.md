@@ -42,9 +42,7 @@ Looking for opportunity where I can utilize my extensive knowledge and have desi
               <img src="https://camo.githubusercontent.com/b20cbcf5f39fdc2e7afd094498b2889f9e136d7b2cfc8ac535094905f35fdcce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637970726573732d2532333465613934622e7376673f7374796c653d706c6173746963266c6f676f3d63797072657373266c6f676f436f6c6f723d626c61636b" alt="cypress" width="80" height="30"/>
               <img src="https://camo.githubusercontent.com/4093ce6534beb6830ca85c2e7566f1456aa5454405a425a6d94f6505ff3a2de1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970657363726970742d2532333030374143432e7376673f7374796c653d706c6173746963266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" alt="typescript" width="80" height="30"/>
        </p>
- </div>
-       
-       <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amardeep115" alt="amardeep115" /></a> </p>
+ </div> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amardeep115" alt="amardeep115" /></a> </p>
        
 <!--
 **AMARDEEP115/AMARDEEP115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
