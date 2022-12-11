@@ -17,10 +17,10 @@ Looking for opportunity where I can utilize my extensive knowledge and have desi
 - 💬 Ask me about ... HTML | CSS | JavaScript | React JS | Redux
 - 📫 How to reach me: ...
        <div style="display:flex;align-items: center">
-         E-MAIL <a style="color:white;margin-top:-20px" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=amar1998deep@gmail.com" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0PURIZXoMV9LaHfVdJ9HxHMQTPa9bT4sgwg&usqp=CAU" alt="Email" height="35" width="55" /></a>
-        <p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6tv7aNTiXll-DQhe8e7EvzAfaRnb3-KuVJQ&usqp=CAU" alt="mobile" height="55" width="25"> - 6388898362 </p>
+         <p align="left"> <a style="color:white;margin-top:-20px" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=amar1998deep@gmail.com" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0PURIZXoMV9LaHfVdJ9HxHMQTPa9bT4sgwg&usqp=CAU" alt="Email" height="35" width="55" /></a></p>
+        <p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6tv7aNTiXll-DQhe8e7EvzAfaRnb3-KuVJQ&usqp=CAU" alt="mobile" height="30" width="30"> - 6388898362 </p>
          <p align="left">
-             <a href="https://linkedin.com/in/amar-deep-8359aa246/"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKSiEsPKQAUEEk7kmEy1Rb7YotukM86O286A&usqp=CAU" alt="linkedIn" height="35" width="35" /></a>
+             <a href="https://linkedin.com/in/amar-deep-8359aa246/"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKSiEsPKQAUEEk7kmEy1Rb7YotukM86O286A&usqp=CAU" alt="linkedIn" height="25" width="60" /></a>
        </p>
        </div>
 <img src="https://github-readme-stats.vercel.app/api?username=AMARDEEP115&show_icons=true&locale=en" alt="status"/>
