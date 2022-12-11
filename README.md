@@ -5,6 +5,7 @@
 
 <p align="center">Using technologies to solve real life problems intergued me.
 Capability of managing clean, elegant and efficient code.
+       <br/>
 Skilled in collaboration, decision making and DS & Algo.
 Always ready to leran something new and deal with challenges and task.
        <br/>
