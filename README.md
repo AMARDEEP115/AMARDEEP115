@@ -14,7 +14,6 @@ Looking for opportunity where I can utilize my extensive knowledge and have desi
 <img align="right" src="https://blog.uniecampus.it/wp-content/uploads/2021/07/shutterstock_1449924503.png" style="width:50%;height:50%" alt="gif"/>
 
 - 🌱 I’m currently learning ... Full-Stack Development
-- 💬 Ask me about ... HTML | CSS | JavaScript | React JS | Redux
 - 📫 How to reach me: ...
        <div style="display:flex;align-items: center">
          <p align="left"> <a style="color:white;margin-top:-20px" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=amar1998deep@gmail.com" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0PURIZXoMV9LaHfVdJ9HxHMQTPa9bT4sgwg&usqp=CAU" alt="Email" height="25" width="45" /></a></p>
@@ -23,6 +22,9 @@ Looking for opportunity where I can utilize my extensive knowledge and have desi
              <a href="https://linkedin.com/in/amar-deep-8359aa246/"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKSiEsPKQAUEEk7kmEy1Rb7YotukM86O286A&usqp=CAU" alt="linkedIn" height="35" width="70" /></a>
        </p>
        </div>
+       
+       <br/>
+       - 💬 Ask me about ... HTML | CSS | JavaScript | React JS | Redux
 <img src="https://github-readme-stats.vercel.app/api?username=AMARDEEP115&show_icons=true&locale=en" alt="status"/>
 <!--
 **AMARDEEP115/AMARDEEP115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
