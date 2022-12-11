@@ -22,13 +22,13 @@ Looking for opportunity where I can utilize my extensive knowledge and have desi
              <a href="https://linkedin.com/in/amar-deep-8359aa246/"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKSiEsPKQAUEEk7kmEy1Rb7YotukM86O286A&usqp=CAU" alt="linkedIn" height="35" width="70" /></a>
        </p>
        
-       </div>
        
        
-<img src="https://github-readme-stats.vercel.app/api?username=AMARDEEP115&show_icons=true&locale=en" alt="status"/>
+       
+
 
 <div>
-       - 💬 Ask me about ... HTML | CSS | JavaScript | React JS | Redux | 
+       - 💬 Ask me about ...
        <p align="left">
               <img src="https://camo.githubusercontent.com/90b284b4f542180aeb3bfa244cf0a86d451f9ebc95f9cffe71dc8f73da41b7a7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d706c6173746963266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="html5" width="80" height="30"/>
               <img src="https://camo.githubusercontent.com/57909719a287181a7ed571f0df7fec7bf5b51a0833eb85bdac822f2184984edd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d706c6173746963266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="css3" width="80" height="30"/>
@@ -42,6 +42,8 @@ Looking for opportunity where I can utilize my extensive knowledge and have desi
               <img src="https://camo.githubusercontent.com/4093ce6534beb6830ca85c2e7566f1456aa5454405a425a6d94f6505ff3a2de1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970657363726970742d2532333030374143432e7376673f7374796c653d706c6173746963266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" alt="typescript" width="80" height="30"/>
        </p>
  </div>
+       
+       <img src="https://github-readme-stats.vercel.app/api?username=AMARDEEP115&show_icons=true&locale=en" alt="status"/>
 <!--
 **AMARDEEP115/AMARDEEP115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
