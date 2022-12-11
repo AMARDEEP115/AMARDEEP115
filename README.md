@@ -28,8 +28,8 @@ Looking for opportunity where I can utilize my extensive knowledge and have desi
 
 
 <div width="100%">
-       <img src="https://github-readme-stats.vercel.app/api?username=AMARDEEP115&show_icons=true&locale=en" alt="status"/>
-       - 💬 Ask me about ...
+       <img src="https://github-readme-stats.vercel.app/api?username=AMARDEEP115&show_icons=true&locale=en" alt="status" marginTop="30px"/>
+       <p>💬 Ask me about ...</p>
        <p align="left">
               <img src="https://camo.githubusercontent.com/90b284b4f542180aeb3bfa244cf0a86d451f9ebc95f9cffe71dc8f73da41b7a7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d706c6173746963266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="html5" width="80" height="30"/>
               <img src="https://camo.githubusercontent.com/57909719a287181a7ed571f0df7fec7bf5b51a0833eb85bdac822f2184984edd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d706c6173746963266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="css3" width="80" height="30"/>
