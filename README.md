@@ -3,14 +3,13 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=1200.plus+hrs+coding;100.plus+hrs+soft+skill+development;80.plus+mini+projects;300.plus+hrs+Data+Structure+&+Algo.;5.plus+projects!&font=Fira%20Code&center=true&width=420&height=100&duration=4000&pause=1000&color=F7F7F7%22" alt="animation"/>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" src="https://blog.uniecampus.it/wp-content/uploads/2021/07/shutterstock_1449924503.png" style="width:50%;height:50%" alt="gif"/>
-<p>
-       I'm a passionate Full-Stack developer
-       Using technologies to solve real life problems intergued me
-       Capability of managing clean, elegant and efficient code
-       Skilled in collaboration, decision making and DS & Algo.
-       Always ready to leran something new and deal with challenges and task
-       Looking for opportunity where I can utilize my extensive knowledge and have desire to work in product-based company
-</p>
+<p>I'm a passionate Full-Stack developer</p>
+<p>Using technologies to solve real life problems intergued me</p>
+<p>Capability of managing clean, elegant and efficient code</p>
+<p>Skilled in collaboration, decision making and DS & Algo.</p>
+<p>Always ready to leran something new and deal with challenges and task</p>
+<p>Looking for opportunity where I can utilize my extensive knowledge and have desire to work in product-based company</p>
+
 - 🌱 I’m currently learning ... Full-Stack Development
 - 💬 Ask me about ... HTML | CSS | JavaScript | React JS | Redux
 - 📫 How to reach me: ...
