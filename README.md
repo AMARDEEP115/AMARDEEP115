@@ -7,6 +7,7 @@
 Capability of managing clean, elegant and efficient code.
 Skilled in collaboration, decision making and DS & Algo.
 Always ready to leran something new and deal with challenges and task.
+       <br/>
 Looking for opportunity where I can utilize my extensive knowledge and have desire to work in product-based company.</p>
 
 <img align="right" src="https://blog.uniecampus.it/wp-content/uploads/2021/07/shutterstock_1449924503.png" style="width:50%;height:50%" alt="gif"/>
