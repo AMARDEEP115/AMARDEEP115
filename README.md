@@ -22,6 +22,7 @@ Looking for opportunity where I can utilize my extensive knowledge and have desi
        <div style="display:flex;align-items: center">
          <h3 align="left"> <a style="color:white;margin-top:-20px" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=amar1998deep@gmail.com" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0PURIZXoMV9LaHfVdJ9HxHMQTPa9bT4sgwg&usqp=CAU" alt="Email" height="25" width="45" /> </a> - amar1998deep@gmail</h3>
         <h3 align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6tv7aNTiXll-DQhe8e7EvzAfaRnb3-KuVJQ&usqp=CAU" alt="mobile" height="25" width="25"> - 6388898362 </h3>
+       <h3 align="left"> <a href="http://amardeep115.github.io">PORTFOLIO</a> </h3>
          <p align="left">
              <a href="https://linkedin.com/in/amar-deep-8359aa246/"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKSiEsPKQAUEEk7kmEy1Rb7YotukM86O286A&usqp=CAU" alt="linkedIn" height="35" width="80" /> - Amar Deep </a>
        </p>
