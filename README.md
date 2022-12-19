@@ -38,6 +38,7 @@ Looking for opportunity where I can utilize my extensive knowledge and have desi
        <br/>
        <br/>
        <img src="https://github-readme-stats.vercel.app/api?username=AMARDEEP115&show_icons=true&locale=en" alt="status" />
+       <img src="https://streak-stats.demolab.com/?user=AMARDEEP115" alt="git stats" />
        <br/>
        <br/>
        <h1 font-size="30" color="red">💬 Ask me about ...</h1>
