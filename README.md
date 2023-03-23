@@ -18,7 +18,7 @@ Looking for opportunity where I can utilize my extensive knowledge and have desi
 <img align="right" src="https://blog.uniecampus.it/wp-content/uploads/2021/07/shutterstock_1449924503.png" style="width:50%;height:50%" alt="gif"/>
 
 - 🌱 Completed full-time Full-Stack Development course from Masai.
-- <h3>📫 How to reach me: ...</h3>
+- <h3>📫 Connect with me: ...</h3>
        <div style="display:flex;align-items: center">
          <h3 align="left"> <a style="color:white;margin-top:-20px" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=amar1998deep@gmail.com" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0PURIZXoMV9LaHfVdJ9HxHMQTPa9bT4sgwg&usqp=CAU" alt="Email" height="25" width="45" /> </a> - amar1998deep@gmail</h3>
         <h3 align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6tv7aNTiXll-DQhe8e7EvzAfaRnb3-KuVJQ&usqp=CAU" alt="mobile" height="25" width="25"> - 6388898362 </h3>
@@ -31,6 +31,11 @@ Looking for opportunity where I can utilize my extensive knowledge and have desi
        
 <!--        <img src="https://github-readme-stats.vercel.app/api?username=AMARDEEP115&show_icons=true&locale=en" alt="status"/> -->
 <br/>
+       <h3>Teach Stacks</h3>
+       <div>
+              ![image](https://user-images.githubusercontent.com/105987614/227203335-c1992011-ea4e-4225-a2b0-60303d2bbc65.png)
+
+       </div>
 <br/>
 
 <div width="100%">
