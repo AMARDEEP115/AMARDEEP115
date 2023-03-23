@@ -19,48 +19,62 @@ Looking for opportunity where I can utilize my extensive knowledge and have desi
 
 - 🌱 Completed full-time Full-Stack Development course from Masai.
 - <h3>📫 Connect with me: ...</h3>
-       <div style="display:flex;align-items: center">
-         <h3 align="left"> <a style="color:white;margin-top:-20px" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=amar1998deep@gmail.com" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0PURIZXoMV9LaHfVdJ9HxHMQTPa9bT4sgwg&usqp=CAU" alt="Email" height="25" width="45" /> </a> - amar1998deep@gmail</h3>
-        <h3 align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6tv7aNTiXll-DQhe8e7EvzAfaRnb3-KuVJQ&usqp=CAU" alt="mobile" height="25" width="25"> - 6388898362 </h3>
-       <h3 align="left"> <a href="http://amardeep115.github.io">PORTFOLIO</a> </h3>
+       <div display="flex">
+       <a href="https://linkedin.com/in/amar-deep-8359aa246/" target="_blank"><img src="https://user-images.githubusercontent.com/105987614/227213313-7192b532-7bee-4145-9f7c-d02080108b60.png" alt="linkedIn" height="35" /></a>
+         <a href="mailto:amar1998deep@gmail.com" align="left" target="_blank"><img src="https://user-images.githubusercontent.com/105987614/227215161-f02149cd-8c22-49f2-a174-3bf84318d424.png" alt="Email" height="35"/></a>
+       <a href="http://amardeep115.github.io" align="left" target="_blank"><img src="https://user-images.githubusercontent.com/105987614/227213957-ba774f06-74ef-4f09-9c33-6470395a7af8.png" alt="potfolio" height="35"/></a>
+       <a align="left" href="tel:+916388898362"> <img src="https://user-images.githubusercontent.com/105987614/227214307-35c35433-d220-4171-8108-f4cef5bc09c6.png" alt="mobile" height="35"></a>
          <p align="left">
-             <a href="https://linkedin.com/in/amar-deep-8359aa246/"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKSiEsPKQAUEEk7kmEy1Rb7YotukM86O286A&usqp=CAU" alt="linkedIn" height="35" width="80" /> - Amar Deep </a>
        </p>
        
        
        
 <!--        <img src="https://github-readme-stats.vercel.app/api?username=AMARDEEP115&show_icons=true&locale=en" alt="status"/> -->
 <br/>
-       <h3>Teach Stacks</h3>
-       <div>
-              ![image](https://user-images.githubusercontent.com/105987614/227203335-c1992011-ea4e-4225-a2b0-60303d2bbc65.png)
-
+<br/>
+       <h1>Teach Stacks</h1>
+       <div display="flex" flex-wrap="wrap">
+              <img src="https://user-images.githubusercontent.com/105987614/227203335-c1992011-ea4e-4225-a2b0-60303d2bbc65.png" alt="html" width="80"/>
+              <img src="https://user-images.githubusercontent.com/105987614/227204089-6a531338-6e60-40ae-9875-facd3b53b96e.png" alt="css" height="35"/>
+              <img src="https://user-images.githubusercontent.com/105987614/227204542-97fe8905-28ee-44b1-a47e-35800b11036c.png" alt="JavaScript" height="35"/>
+              <img src="https://user-images.githubusercontent.com/105987614/227205059-13036ee3-cf54-4ea9-80ac-069383f9fe58.png" alt="react" height="35" />
+              <img src="https://user-images.githubusercontent.com/105987614/227205214-d8cea420-88c4-490c-a37a-698e55a2eb7e.png" alt="react-eouter-dom" height="35" />
+              <img src="https://user-images.githubusercontent.com/105987614/227205389-c79c26d8-6931-445d-9b89-00cc847ab2fb.png" alt="redux" height="35" />
+              <img src="https://user-images.githubusercontent.com/105987614/227205523-1acee2d3-8feb-43c7-9bfe-79faf8a12d07.png" alt="nodejs" height="35" />
+              <img src="https://user-images.githubusercontent.com/105987614/227205671-887f48bd-e9e9-4a27-8189-c850f227fae3.png" alt="express" height="35" />
+              <img src="https://user-images.githubusercontent.com/105987614/227205841-cfc25ae8-c216-4754-90da-ae50fc6171b8.png" alt="mongoDB" height="35" />
+              <img src="https://user-images.githubusercontent.com/105987614/227205988-65f4312e-c56a-47ec-a66f-641284152e7e.png" alt="nextjs" height="35" />
+              <img src="https://user-images.githubusercontent.com/105987614/227206130-3514ac67-f8f7-47a4-bcb7-1fcab09abe08.png" alt="git" height="35" />
+              <img src="https://user-images.githubusercontent.com/105987614/227206729-b18665b9-7a14-4328-a7b4-3515bc706c96.png" alt="cypress" height="35" />
+              <img src="https://user-images.githubusercontent.com/105987614/227206907-9b3b044a-e626-4653-acb8-efe07756365a.png" alt="chakra-ui" height="35" />
+              <img src="https://user-images.githubusercontent.com/105987614/227207202-b340bd1f-c08f-41c8-82fb-9133fa9541d1.png" alt="material-ui" height="35" />
+              <img src="https://user-images.githubusercontent.com/105987614/227207325-26be6e04-983b-448e-8505-39ffff3e429e.png" alt="vercel" height="35" />
+              <img src="https://user-images.githubusercontent.com/105987614/227207506-22f79d79-0d58-43a6-ac13-59001f4401aa.png" alt="stylecomponents" height="35" />
+              <img src="https://user-images.githubusercontent.com/105987614/227207631-076ed720-477a-428c-ba21-16e01f52297e.png" alt="socketio" height="35" />
        </div>
 <br/>
-
+<br/>
 <div width="100%">
        <br/>
+       <h1>Github Stats</h1>
        <br/>
        <br/>
        <img src="https://github-readme-stats.vercel.app/api?username=AMARDEEP115&show_icons=true&locale=en" alt="status" />
        <img src="https://streak-stats.demolab.com/?user=AMARDEEP115" alt="git stats" />
        <br/>
        <br/>
-       <h1 font-size="30" color="red">💬 Ask me about ...</h1>
        <br/>
        <p align="left">
-              <img src="https://camo.githubusercontent.com/90b284b4f542180aeb3bfa244cf0a86d451f9ebc95f9cffe71dc8f73da41b7a7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d706c6173746963266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="html5" width="80" height="30"/>
-              <img src="https://camo.githubusercontent.com/57909719a287181a7ed571f0df7fec7bf5b51a0833eb85bdac822f2184984edd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d706c6173746963266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="css3" width="80" height="30"/>
-              <img src="https://camo.githubusercontent.com/6d3b128cd950dff725d5caed37ed86c4039eeec0a861332bd2bc7a73fac74fd1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d706c6173746963266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145" alt="javascript" width="110" height="30"/>
-              <img src="https://camo.githubusercontent.com/c24c3c3c0cafb16a5c973c7dc9d4d5292f9db2d3ae78d51609ebabe38c6cea7d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f7374796c653d706c6173746963266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642" alt="react" width="80" height="30"/>
-              <img src="https://camo.githubusercontent.com/f73cfed2f02962ee0d0aea3ed4e838cd46db1a3c5b512b42deeb5f670b18e420/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426162656c2d4639444333653f7374796c653d706c6173746963266c6f676f3d626162656c266c6f676f436f6c6f723d626c61636b" alt="babel" width="80" height="30"/>
-              <img src="https://camo.githubusercontent.com/8f7b007f073a76331f9b05c26fc663dde8733453ef70420f66f4f6eaba3ff0b2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163745f526f757465722d4341343234353f7374796c653d706c6173746963266c6f676f3d72656163742d726f75746572266c6f676f436f6c6f723d7768697465" alt="ReactRouterDom" width="120" height="30"/>
-              <img src="https://camo.githubusercontent.com/f4485f07b513b56508b02ff2951b458fd7b20e591b687d5389880fc02a7ca676/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6368616b72612d2532333445443143352e7376673f7374796c653d706c6173746963266c6f676f3d6368616b72617569266c6f676f436f6c6f723d7768697465" alt="Chakra" width="80" height="30"/>
-              <img src="https://camo.githubusercontent.com/0bca0394e8f5de954ae44319392e62c8739c9ebce512d5550bffba8e96a19b2c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656475782d2532333539336438382e7376673f7374796c653d706c6173746963266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465" alt="redux" width="80" height="30"/>
-              <img src="https://camo.githubusercontent.com/b20cbcf5f39fdc2e7afd094498b2889f9e136d7b2cfc8ac535094905f35fdcce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637970726573732d2532333465613934622e7376673f7374796c653d706c6173746963266c6f676f3d63797072657373266c6f676f436f6c6f723d626c61636b" alt="cypress" width="80" height="30"/>
-              <img src="https://camo.githubusercontent.com/4093ce6534beb6830ca85c2e7566f1456aa5454405a425a6d94f6505ff3a2de1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970657363726970742d2532333030374143432e7376673f7374796c653d706c6173746963266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" alt="typescript" width="120" height="30"/>
        </p>
- </div> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amardeep115" alt="amardeep115" /></a> </p>
+ </div> 
+       <br/>
+       <br/>
+       <h3>Github Trophy's</h3>
+       <br/>
+       <br/>
+       <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amardeep115" alt="amardeep115" /></a> </p>
+       <br/>
+       <br/>
        
 <!--
 **AMARDEEP115/AMARDEEP115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
