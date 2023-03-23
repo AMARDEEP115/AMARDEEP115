@@ -59,8 +59,8 @@ Looking for opportunity where I can utilize my extensive knowledge and have desi
        <h1><i>My GitHub Stats</i>:</h1>
        <br/>
        <br/>
-       <img src="https://github-readme-stats.vercel.app/api?username=AMARDEEP115&show_icons=true&locale=en" alt="status" />
-       <img src="https://streak-stats.demolab.com/?user=AMARDEEP115" alt="git stats" />
+       <img src="https://github-readme-stats.vercel.app/api?username=AMARDEEP115&show_icons=true&locale=en&theme=dark" alt="status" />
+       <img src="https://streak-stats.demolab.com/?user=AMARDEEP115&theme=dark" alt="git stats" />
        <br/>
        <br/>
        <br/>
