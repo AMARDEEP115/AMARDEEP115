@@ -17,7 +17,7 @@ Looking for opportunity where I can utilize my extensive knowledge and have desi
 
 <img align="right" src="https://blog.uniecampus.it/wp-content/uploads/2021/07/shutterstock_1449924503.png" style="width:50%;height:50%" alt="gif"/>
 
-- 🌱 Completed full-time Full-Stack Development course from Masai.
+- 🌱 <h4>Completed full-time Full-Stack Development course from Masai.</h4>
 - <h1>📫 <i>Connect with me</i>:</h1>
        <div display="flex">
        <a href="https://linkedin.com/in/amar-deep-8359aa246/" target="_blank"><img src="https://user-images.githubusercontent.com/105987614/227213313-7192b532-7bee-4145-9f7c-d02080108b60.png" alt="linkedIn" height="35" /></a>
