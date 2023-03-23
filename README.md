@@ -17,7 +17,7 @@ Looking for opportunity where I can utilize my extensive knowledge and have desi
 
 <img align="right" src="https://blog.uniecampus.it/wp-content/uploads/2021/07/shutterstock_1449924503.png" style="width:50%;height:50%" alt="gif"/>
 
-- 🌱 I’m currently learning ... Full-Stack Development
+- 🌱 Completed full-time Full-Stack Development course from Masai.
 - <h3>📫 How to reach me: ...</h3>
        <div style="display:flex;align-items: center">
          <h3 align="left"> <a style="color:white;margin-top:-20px" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=amar1998deep@gmail.com" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0PURIZXoMV9LaHfVdJ9HxHMQTPa9bT4sgwg&usqp=CAU" alt="Email" height="25" width="45" /> </a> - amar1998deep@gmail</h3>
