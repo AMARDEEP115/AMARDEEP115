@@ -71,7 +71,7 @@ Looking for opportunity where I can utilize my extensive knowledge and have desi
  </div> 
        <br/>
        <br/>
-       <h1><i>Github Trophy's</i></h1>
+       <h1><i>Github Trophy's</i> :</h1>
        <br/>
        <br/>
        <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amardeep115" alt="amardeep115" /></a> </p>
