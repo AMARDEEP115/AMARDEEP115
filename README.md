@@ -18,7 +18,7 @@ Looking for opportunity where I can utilize my extensive knowledge and have desi
 <img align="right" src="https://blog.uniecampus.it/wp-content/uploads/2021/07/shutterstock_1449924503.png" style="width:50%;height:50%" alt="gif"/>
 
 - 🌱 <h4>Completed full-time Full-Stack Development course from Masai.</h4>
-- <h1>📫 <i>Connect with me</i>:</h1>
+- <h1>📫 <i>Connect with me</i> :</h1>
        <div display="flex">
        <a href="https://linkedin.com/in/amar-deep-8359aa246/" target="_blank"><img src="https://user-images.githubusercontent.com/105987614/227213313-7192b532-7bee-4145-9f7c-d02080108b60.png" alt="linkedIn" height="35" /></a>
          <a href="mailto:amar1998deep@gmail.com" align="left" target="_blank"><img src="https://user-images.githubusercontent.com/105987614/227215161-f02149cd-8c22-49f2-a174-3bf84318d424.png" alt="Email" height="35"/></a>
@@ -32,7 +32,7 @@ Looking for opportunity where I can utilize my extensive knowledge and have desi
 <!--        <img src="https://github-readme-stats.vercel.app/api?username=AMARDEEP115&show_icons=true&locale=en" alt="status"/> -->
 <br/>
 <br/>
-       <h1><i>Tech Stacks</i>:</h1>
+       <h1><i>Tech Stacks</i> :</h1>
        <div display="flex" flex-wrap="wrap">
               <img src="https://user-images.githubusercontent.com/105987614/227203335-c1992011-ea4e-4225-a2b0-60303d2bbc65.png" alt="html" width="80"/>
               <img src="https://user-images.githubusercontent.com/105987614/227204089-6a531338-6e60-40ae-9875-facd3b53b96e.png" alt="css" height="35"/>
@@ -56,7 +56,7 @@ Looking for opportunity where I can utilize my extensive knowledge and have desi
 <br/>
 <div width="100%">
        <br/>
-       <h1><i>My GitHub Stats</i>:</h1>
+       <h1><i>My GitHub Stats</i> :</h1>
        <br/>
        <br/>
        <img src="https://github-readme-stats.vercel.app/api?username=AMARDEEP115&show_icons=true&locale=en&theme=dark" alt="status" />
@@ -71,7 +71,7 @@ Looking for opportunity where I can utilize my extensive knowledge and have desi
  </div> 
        <br/>
        <br/>
-       <h3>Github Trophy's</h3>
+       <h1><i>Github Trophy's</i></h1>
        <br/>
        <br/>
        <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amardeep115" alt="amardeep115" /></a> </p>
